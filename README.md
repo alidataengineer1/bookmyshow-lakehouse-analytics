@@ -1,3 +1,5 @@
+> **Superseded — this is an earlier copy.** The canonical, maintained version of this project is **[bookmyshow-databricks-lakehouse](https://github.com/alidataengineer1/bookmyshow-databricks-lakehouse)**. Please review that repository instead.
+
 [README.md](https://github.com/user-attachments/files/31483290/README.md)
 # BookMyShow Lakehouse Portfolio Project
 
